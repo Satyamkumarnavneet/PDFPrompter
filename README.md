@@ -14,7 +14,7 @@ Welcome to PDFPrompter, a groundbreaking application designed to provide accurat
 
 - **LangChain4J**: Facilitates communication with OpenAI's LLM for insightful data extraction.
 - **AstraDB**: Enables efficient storage and retrieval of document embeddings.
-- **Spring Boot**: Forms the backbone of the REST API, ensuring smooth communication with the PDF Assistant.
+- **Spring Boot**: Forms the backbone of the REST API, ensuring smooth communication with the PDFPrompter.
 
 ## Additional Enhancements
 
